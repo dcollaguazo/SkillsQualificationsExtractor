@@ -1,5 +1,5 @@
 certifi==2018.8.24
-joblib==0.13.2
+joblib==1.2.0
 nltk==3.4.4
 numpy==1.17.0
 pandas==0.25.0
