@@ -1,4 +1,4 @@
-certifi==2018.8.24
+certifi==2022.12.7
 joblib==0.13.2
 nltk==3.4.4
 numpy==1.17.0
